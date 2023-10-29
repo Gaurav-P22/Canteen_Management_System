@@ -18,13 +18,10 @@ Dynamic menu creation and editing capabilities allow canteen administrators to u
 # 2. Ordering System:
 Users can browse the menu, add items to their cart, and place orders seamlessly. The system supports order customization and provides an intuitive interface for order tracking.
 
-# 3. Payment Integration:
-Integrated payment gateways facilitate secure transactions, allowing users to make payments online, reducing reliance on cash transactions.
-
-# 4. Feedback and Ratings:
+# 3. Feedback and Ratings:
 Users can provide feedback on their orders, allowing the canteen management to improve service quality based on customer input.
 
-# 5. Responsive Design:
+# 4. Responsive Design:
 The system is designed to be accessible across various devices, ensuring a seamless experience for both desktop and mobile users.
 
 # Conclusion:

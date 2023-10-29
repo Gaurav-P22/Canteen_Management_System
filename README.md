@@ -1,11 +1,11 @@
 # Canteen_Management_System
 
 
-Title: Canteen Management System using MERN Stack
+Title: Canteen Management System using PHP
 
 **Abstract:**
 
-The Canteen Management System using MERN (MongoDB, Express.js, React.js, Node.js) technology is a comprehensive solution designed to streamline and automate the operations of a canteen in an organizational setting. The system addresses the challenges faced in managing a canteen efficiently by integrating a user-friendly interface with a robust backend powered by the MERN stack.
+The Canteen Management System using Html,CSS,PHP technology is a comprehensive solution designed to streamline and automate the operations of a canteen in an organizational setting. The system addresses the challenges faced in managing a canteen efficiently by integrating a user-friendly interface with a robust backend.
 
 # Key Features:
 
